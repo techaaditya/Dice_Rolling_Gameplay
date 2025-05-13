@@ -2,7 +2,7 @@
 A simple Python dice rolling game with basic and advanced versions.
 
 ## Overview
-This project includes two Python scripts to simulate rolling two six-sided dice:
+This project includes two Python scripts to simulate rolling as per the user preference.
 
 ## Features
 
